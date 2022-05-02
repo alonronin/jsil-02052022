@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "server": "json-server --watch db.json --port 8080",
+    "mock-server": "json-server --watch db.json --port 8080",
     "dev": "next dev"
   },
   "dependencies": {
