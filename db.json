@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "create a form with the platform",
+      "id": 1,
+      "completed": true
+    },
+    {
+      "title": "learn javascript",
+      "id": 2,
+      "completed": true
+    },
+    {
+      "title": "I have another task here",
+      "id": 3
+    },
+    {
+      "title": "and another todo",
+      "id": 4
+    }
+  ]
+}
